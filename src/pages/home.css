@@ -1,0 +1,28 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2rem;
+  }
+
+th, td {
+    padding: 0.4rem;
+    text-align: left;
+  }
+
+th {
+    text-align: center;
+}
+
+.listtable th {
+    border-bottom: 1px solid #ddd;
+  }
+
+.listtable td {
+    border-bottom: 1px solid #ddd;
+  }
+
+.listtable tr:hover {background-color: wheat}
+
+.plottable {
+    padding-right: 2rem;
+  }
