@@ -3,6 +3,7 @@
 - Clone the repository (e.g. git clone \<path\>)
 - cd into root directory and run: npm install. This will install all dependencies found in package.json.
 - run: npm start
+- open your web browser at http://localhost:3000/
 
 # Getting Started with Create React App
 
